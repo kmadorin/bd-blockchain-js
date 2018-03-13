@@ -2,8 +2,9 @@
 Simple js-blockchain with wallet, mempool and other staff 
 
 To run the project:
-``` npm i
-    npm run dev
+``` 
+npm i
+npm run dev
 ```
 
 # Bd-blockchain in action:
